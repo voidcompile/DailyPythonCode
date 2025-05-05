@@ -30,7 +30,7 @@ python rock_paper_scissors.py
 ```
 ---
 
-##📊 Example Output
+## 📊 Example Output
 
 🎮 Welcome to Rock, Paper, Scissors!
 First to 5 wins per match. Type 'q' anytime to quit.
