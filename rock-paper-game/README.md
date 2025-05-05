@@ -42,23 +42,12 @@ Choose (rock/paper/scissors): rock
 
 ---
 
-## 📌 Project Structure
-
-rock-paper-scissors/
-│
-├── rock_paper_scissors.py  # Main game script
-└── README.md                # Project documentation
-
----
-
-
 ## 📚 License
 
 MIT License.
 Feel free to use, modify, or share!
 
 ---
-
 
 ## 🙌 Author
 
@@ -67,7 +56,6 @@ telegram: @voidcompile
 youtube: @voidcompile
 
 ---
-
 
 ## 💡 Inspired By
 The timeless game and the joy of coding 🎯
