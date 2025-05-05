@@ -28,6 +28,7 @@ No external libraries required. Just run and play!
 ```bash
 python rock_paper_scissors.py
 
+---
 
 ## 📊 Example Output
 
