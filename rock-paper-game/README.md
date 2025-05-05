@@ -27,3 +27,48 @@ No external libraries required. Just run and play!
 
 ```bash
 python rock_paper_scissors.py
+
+
+## 📊 Example Output
+
+🎮 Welcome to Rock, Paper, Scissors!
+First to 5 wins per match. Type 'q' anytime to quit.
+
+Choose (rock/paper/scissors): rock
+💻 Computer chose: scissors
+✅ You win this round!
+🏆 Current Score - You: 1 | Computer: 0
+
+---
+
+## 📌 Project Structure
+
+rock-paper-scissors/
+│
+├── rock_paper_scissors.py  # Main game script
+└── README.md                # Project documentation
+
+---
+
+
+## 📚 License
+
+MIT License.
+Feel free to use, modify, or share!
+
+---
+
+
+## 🙌 Author
+
+GitHub: @voidcompile
+telegram: @voidcompile
+youtube: @voidcompile
+
+---
+
+
+## 💡 Inspired By
+The timeless game and the joy of coding 🎯
+
+
