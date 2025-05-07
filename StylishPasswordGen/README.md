@@ -42,7 +42,7 @@ Install the only external library using pip:
 
 ```bash
 pip install pyperclip
-
+```
 ---
 
 🧑‍💻 Author
