@@ -82,8 +82,8 @@ Please ensure your code follows Python best practices and includes meaningful co
 
 💬 Contact
 If you have any questions or suggestions, feel free to open an issue or reach out to me directly via my GitHub profile or email.
-github : @voidcompile
-telegram : @voidcompile
-youtube : @voidcompile
+github : [@voidcompile](https://github.com/voidcompile)
+telegram : [@voidcompile](https://t.me/voidcompile)
+youtube : [@voidcompile](https://www.youtube.com/@voidcompile)
 email : voidcompile@gmail.com
 
