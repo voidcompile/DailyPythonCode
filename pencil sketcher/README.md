@@ -52,19 +52,6 @@ python sketch.py
 
 ---
 
-## 🗂 Project Structure
-
-pencil-sketcher/
-│
-├── image.jpg              # Input image
-├── sketch.py              # Main Python script
-├── README.md              # Documentation
-├── assets/
-│   ├── original.jpg       # Example original image (for preview)
-│   └── sketch.jpg         # Example output sketch
-
----
-
 ## 💡 Tips
 Works best with clear, high-resolution images
 
