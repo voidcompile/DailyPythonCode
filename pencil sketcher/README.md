@@ -9,7 +9,7 @@ Ideal for creative projects, filters, image editors, or just for fun!
 
 Original Image | Pencil Sketch  
 :--:|:--:  
-![original](assets/original.jpg) | ![sketch](assets/sketch.jpg)
+![original](image1.jpg) | ![sketch](assets/sketch.jpg)
 
 ---
 
