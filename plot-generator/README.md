@@ -15,7 +15,8 @@ An interactive desktop app written in Python that lets you **generate line and s
 
 ### 🖼️ Preview
 
-> ![GUI Preview](https://via.placeholder.com/400x300.png?text=Plot+Generator+GUI)
+> ![Figure_1.png](assets/Figure_1.png)
+> ![Figure_2.png](assets/Figure_2.png)
 
 ---
 
