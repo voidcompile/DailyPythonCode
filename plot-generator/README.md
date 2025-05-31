@@ -15,8 +15,8 @@ An interactive desktop app written in Python that lets you **generate line and s
 
 ### 🖼️ Preview
 
-> ![Figure_1.png](assets/Figure_1.png)
-> ![Figure_2.png](assets/Figure_2.png)
+> ![Figure_1.png](Figure_1.png)
+> ![Figure_2.png](Figure_2.png)
 
 ---
 
