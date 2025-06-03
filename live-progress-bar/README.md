@@ -15,12 +15,6 @@ A sleek and interactive **Tkinter-based Progress Bar** application that lets you
 
 ---
 
-## 📸 Screenshot
-
-![Live Progress Bar Screenshot](assets/live-progress-demo.png)
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Requirements
