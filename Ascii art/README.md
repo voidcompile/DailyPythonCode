@@ -34,7 +34,7 @@ Then type your desired text and press Enter. The ASCII art will appear instantly
 
 ## 💡 Example
 
-[Capture.PNG](images/example.png)
+[Capture.PNG](DailyPythonCode/Ascii art/Capture.PNG)
 
 ---
 
