@@ -31,9 +31,12 @@ python ascii_art_generator.py
 Then type your desired text and press Enter. The ASCII art will appear instantly! 🎉
 
 ---
+
 ## 💡 Example
 
 [Capture.PNG](images/example.png)
+
+---
 
 ## 📜 License
 This project is open source and free to use. Feel free to customize and share! 💖
