@@ -66,4 +66,3 @@ Stay updated with daily Python & AI projects on our channel:
 📢 [youtube: @voidcompile](https://www.youtube.com/@voidcompile)
 📢 [email: voidcompile@gmail.com]
 
-گگگ
